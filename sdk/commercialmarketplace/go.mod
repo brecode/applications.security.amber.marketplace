@@ -1,4 +1,4 @@
-module github.com/intel-innersource/applications.security.amber.marketplace/sdk/commercialmarketplace
+module github.com/intel-innersource/applications.security.amber.marketplace
 
 go 1.17
 
